@@ -20,6 +20,10 @@ input, button, textarea, select { font: inherit }
     body { padding: 8% 5%}
 }
 
+body {background-color: purple;}
+
+h1, h2, p {color: white;}
+
 h1 {
     font-size: 84px;
     margin-bottom: 64px;
@@ -41,3 +45,5 @@ p {
     line-height: 1.6;
     margin-bottom: 20px;
 }
+
+a {color: white;}
